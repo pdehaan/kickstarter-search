@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
   "bugs": "https://github.com/pdehaan/kickstarter-search/issues",
-  "dependencies": "pdehaan/requestp",
+  "dependencies": {
+    "requestp": "pdehaan/requestp"
+  },
   "devDependencies": {
     "eslint": "0.9.1"
   },
