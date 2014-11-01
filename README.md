@@ -2,7 +2,7 @@
 
 Search Kickstarter by keyword using Node.js
 
-## How do even?
+## How do I even?
 
 You can install the `kickstarter-search` module using npm using the following command:
 
