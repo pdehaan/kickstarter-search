@@ -1,0 +1,23 @@
+{
+  "name": "kickstarter-search",
+  "description": "Search Kickstarter by keyword.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
+  "bugs": "https://github.com/pdehaan/kickstarter-search/issues",
+  "dependencies": "pdehaan/requestp",
+  "devDependencies": {
+    "eslint": "0.9.1"
+  },
+  "homepage": "https://github.com/pdehaan/kickstarter-search",
+  "keywords": [
+    "kickstarter",
+    "api"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "repository": "pdehaan/kickstarter-search",
+  "scripts": {
+    "start": "node index",
+    "test": "eslint ."
+  }
+}
